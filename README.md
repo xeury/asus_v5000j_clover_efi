@@ -2,6 +2,8 @@
 
 华硕VivoBook S15 V5000JP笔记本黑苹果引导文件，版本 V5000J，CPU：i5 1035G1，硬盘：Intel pcie ssd 512GB
 
+【警告：我还没弄明白怎么向github上传文件夹，所以这里的CLOVER还是旧的，是另一位大佬的。缺少2-3个功能。】
+
 # 安装的注意
 
 1，bios里只需要修改硬盘模式为AHCI，不能使用Intel RST；
