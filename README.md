@@ -30,7 +30,8 @@
 
 自带摄像头 🈲️ （还没搞定）
 
-﻿# 进入MAC后的注意
+# 进入MAC后的注意
+
 1，wifi需要先安装新版本的heliport，然后重启就可以选择wifi了。懂linux命令的，可以直接去/EFI/CLOVER/kext/Other/itlwm.kext/Content/里，修改Info.plist里的ssid和password字段。写死了热点名称。
 
 2，如果没有声音，需要去设置的声音里，修改输出为speaker即可。装好黑苹果的默认输出好像不是speaker。
